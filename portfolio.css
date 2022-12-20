@@ -240,7 +240,7 @@ body{
 .Project{
    
     height: 100vh;
-    background-image: url(file:///D:/visual%20code/project3-portfolio/images/cookie-the-pom-gySMaocSdqs-unsplash.jpg);
+    background-image: url('https://github.com/Ratinderpreetsingh/portfolio.github.io/blob/main/images/cookie-the-pom-gySMaocSdqs-unsplash.jpg');
     background-position: center;
     background-size: cover;
     text-align: center
