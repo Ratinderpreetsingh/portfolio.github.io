@@ -240,7 +240,7 @@ body{
 .Project{
    
     height: 100vh;
-    background-image: url('https://github.com/Ratinderpreetsingh/portfolio.github.io/blob/main/images/cookie-the-pom-gySMaocSdqs-unsplash.jpg');
+    background-image: url('C:\Users\Lenovo\Documents\GitHub\portfolio.github.io\images\project.jpg');
     background-position: center;
     background-size: cover;
     text-align: center
@@ -370,6 +370,9 @@ body{
 .hambar{
     display: none;
 }
+.menu ul .i{
+    display: none;
+}
 
 /* *******media queries*********** */
 @media screen and (max-width: 480px){
@@ -423,6 +426,7 @@ body{
         width:306px
     }
     .menu ul .i{
+        display: block;
         position: absolute;
         top: 16px;
     right: 30px;
